@@ -38,15 +38,15 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org/
     title: IBM Data Science Specialization Certificate
-    url: https://www.coursera.org/professional-certificates/ibm-data-science?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-data-science_ibm_FTCOF_professional-certificates_country-US-country-CA-pmax-nonNRL-within-14d&campaignid=19995348162&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwvL-oBhCxARIsAHkOiu39DZ1DuKZPEO9D4X_wh-UnSJSIBATypd4NdgK5Jkh_6LJ4o2bml9IaAq9fEALw_wcB)https://www.coursera.org/professional-certificates/ibm-data-science?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_ibm-data-science_ibm_FTCOF_professional-certificates_country-US-country-CA-pmax-nonNRL-within-14d&campaignid=19995348162&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gclid=Cj0KCQjwvL-oBhCxARIsAHkOiu39DZ1DuKZPEO9D4X_wh-UnSJSIBATypd4NdgK5Jkh_6LJ4o2bml9IaAq9fEALw_wcB
+    url: https://www.coursera.org/professional-certificates/ibm-data-science
   - certificate_url: ''
     date_end: ''
-    date_start: ''
+    date_start: '2022-08-01'
     description: 'present'
     organization: Coursera
     organization_url: https://www.coursera.org/
     title: 'Google Data Analytics Professional Certificate'
-    url: 'https://www.coursera.org/professional-certificates/google-data-analytics)https://www.coursera.org/professional-certificates/google-data-analytics'
+    url: 'https://www.coursera.org/professional-certificates/google-data-analytics'
 
 design:
   columns: '2'
