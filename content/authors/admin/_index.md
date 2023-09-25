@@ -70,4 +70,4 @@ Words I live by: Keep Learning and Growing. Be Kind and Helpful. Always Create V
 
 Currently, I am open to exciting internship/full-time roles in Software Engineering/Data Engineering/Machine Learning and would love to hear more about it. If you're passionate about data and related areas, don't hesitate to connect. I'm always up for engaging conversations and the chance to learn from fellow enthusiasts.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume.
