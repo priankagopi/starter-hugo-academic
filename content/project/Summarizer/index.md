@@ -7,7 +7,7 @@ authors: []
 tags: 
   - Natural Language Processing
 categories: []
-date: 2023-04-01
+date: 2023-04-01T04:09:50-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Smart%20Summarizer"
