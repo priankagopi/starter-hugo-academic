@@ -60,7 +60,7 @@ email: ''
 highlight_name: true
 ---
 
-I am Priyanka Gopi, a graduate student pursuing my Master's in Computer Science at the University of Central Florida (UCF).
+I am Priyanka Gopi, a graduate student pursuing a Master's in Computer Science at the University of Central Florida (UCF).
 
 Equipped with skills and a strong understanding of Python, I am keenly interested in learning more about the fields of Data Engineering and Machine Learning. I’m creative, analytical, and strategic in my ways and thrive on adapting to and succeeding in problem-solving and complex, challenging environments. I also take pride in having the ability to look at the big picture while having an eye for attention to detail simultaneously.
 
