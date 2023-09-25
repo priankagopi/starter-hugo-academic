@@ -7,7 +7,7 @@ authors: []
 tags: 
   - Machine Learning
 categories: []
-date: 2022-12-10
+date: 2022-12-10T04:09:50-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/priankagopi/Machine-Learning/tree/main/BRFSS%20Data%20Analysis:%20Early%20Diabetes%20Prediction"
