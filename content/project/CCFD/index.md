@@ -7,7 +7,7 @@ authors: []
 tags: 
   - Machine Learning
 categories: []
-date: 2022-11-06
+date: 2022-11-06T04:10:15-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/priankagopi/Machine-Learning/tree/main/Credit%20Card%20Fraud%20Detection"
@@ -17,7 +17,7 @@ external_link: "https://github.com/priankagopi/Machine-Learning/tree/main/Credit
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Right"
   preview_only: false
 
 # Custom links (optional).
