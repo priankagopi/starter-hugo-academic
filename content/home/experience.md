@@ -30,8 +30,6 @@ experience:
     date_start: '2023-08-22'
     date_end: ''
     description: |2-
-         Responsibilites include:  
-        
         - Analyzing Student's demographic data from Physics Online Learning Modules (OLM) as part of the National Science Foundation (NSF).  
         - Exploring the relation between learning behavior and learning outcome, motivation, course completion, and other student characteristics through advanced R analytics and visualization techniques. 
       
