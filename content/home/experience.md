@@ -22,65 +22,61 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Services Assistant - Data Science Research Aide
-    company: School of Computing and Augmented Intelligence at Arizona State University
-    company_url: 'https://scai.engineering.asu.edu/'
+  - title: Graduate Research Assistant - Data Science Research Aide
+    company: UCF - Physics Education Research (PER)
+    company_url: 'https://sciences.ucf.edu/physics/research/research-areas/physics-education-research/'
     company_logo: ''
-    location: Tempe, Arizona
-    date_start: '2022-08-08'
+    location: Orlando, Florida
+    date_start: '2023-08-22'
     date_end: ''
     description: |2-
          Responsibilites include:  
         
-        - Analyzing Arizona’s Medicaid data to enable data-driven informed decisions.  
-        - Providing project management support and assistance to ensure project progress and effective communication with key stakeholders for the State Opioid Response (SOR) project.  
-        - Researching and curating a timeline that reflects changes made during the past 5 years and the impact of COVID-19 on Opioid Use Disorder policies.  
+        - Analyzing Student's demographic data from Physics Online Learning Modules (OLM) as part of the National Science Foundation (NSF).  
+        - Exploring the relation between learning behavior and learning outcome, motivation, course completion, and other student characteristics through advanced R analytics and visualization techniques. 
       
 
-  - title: Machine Learning and Artificial Intelligence Specialist Assistant
-    company: EdPlus at Arizona State University
-    company_url: 'https://edplus.asu.edu/'
+  - title: Data Engineering Intern
+    company: City of Charlotte
+    company_url: 'https://www.charlottenc.gov/Home'
     company_logo: ''
-    location: Tempe, Arizona
-    date_start: '2022-03-01'
-    date_end: '2022-08-12'
+    location: Charlotte, North Carolina
+    date_start: '2023-06-11'
+    date_end: '2023-08-18'
     description: |2-
-        - Developed Machine Learning predictive models to track and predict students’ performances over the semester for various courses.
-        - Aggregated student data to perform quantitative analysis from various data sources and transformed them into actionable insights.
-        - Produced data to promote student success by providing target audience lists of students to receive interventions based on the predictions.
-        - Reduced fetch and load time by 65% by successfully reproducing SQL queries for Google Data Studio dashboards in BigQuery.
-        - Leveraged Google Analytics and BigQuery to track and analyze web behavior and activity aimed at increasing prospective student enrollments for
-        the ASUOnline website.
+        - Collaborated with stakeholders and business analysts to gather requirements and understand the company's data needs.
+        - Streamlined the data cleaning process for unstructured crime datasets by developing automated scripts, reducing manual effort by 50%. 
+        - Planned and executed data-driven solutions by developing automated data pipeline in Airflow and building scalable databases on Snowflake, resulting in a 40% increase in operational efficiency.
+        - Reduced fetch and load time by 65% by successfully auttomating data pipelines on Apache Airflow.
+        - Developed timelines for individual projects with Agile framework to deliver work products in sprints. Leveraged Jira to track and catalogue work and communicate progress to direct leadership.
        
-  - title: Machine Learning Intern
-    company: iPing Data Labs
-    company_url: 'https://www.iping.in/'
+  - title: Graduate Research Assistant
+    company: UCF - School of Global Health Management and Informatics 
+    company_url: 'https://ccie.ucf.edu/hmi/health-informatics/'
     company_logo: ''
-    location: Mumbai, India
-    date_start: '2021-08-01'
-    date_end: '2021-11-30'
+    location: Orlando, Florida
+    date_start: '2023-08-01'
+    date_end: '2023-05-02'
     description: |2-
-        - Developed a deep learning powered Automated Invoice Data Extractor for an Australian client using Python to detect and extract valuable
-          information from digital energy invoices using Computer Vision and NLP, eliminating manual labor by 80%.
-        - Trained an Object Detection model to localize 10+ relevant data points in 25+ invoice formats to achieve 95%+ F1-Score.
-        - Developed and trained various machine learning models for spatial text detection, keyword extraction and company and table identification and
-        classification on energy bills and performed statistical inferencing on the results to match stakeholder expectations.
-        - Devised a parsing algorithm to extract and structure data from invoice PDFs using Tabula, OCR, and Regex to engineer model data for training.
-        - Interpreted 1,25,000+ images from CCTV feeds to detect 7 object categories during day and night for Traffic Detection and Tracking.
+        - Leveraged statistical techniques to analyze healthcare CDC dataset, to increase predicting accuracy by 15% rise for patient diseases.
+        - Analyzed data and created robust reporting charts to effectively communicate findings with charts, enabling evidence-based decision-making for process improvement and operational efficiency. 
+        - Optimize and fine-tune data models to enhance data retrieval and processing efficiency.
     
-  - title: Team Lead and Python Developer Intern
-    company: TinkTank
-    company_url: 'http://tinktank.co.in/'
+    
+  - title: Associate Data Engineer
+    company: Capgemini
+    company_url: 'https://www.capgemini.com/in-en/'
     company_logo: ''
-    location: Mumbai, India
-    date_start: '2020-05-01'
-    date_end: '2020-12-31'
+    location: Bangalore, India
+    date_start: '2020-04-01'
+    date_end: '2022-12-19'
     description: |2-
-        - Led a team of 4 interns and contributed heavily to brainstorming and executing an end-to-end workflow to build an analytics tool that enables
-          recruiters and hiring managers to analyze, track and visualize team performance metrics/KPIs.
-        - Implemented a Business Rule Engine in Python that performed Custom Data Validation on 40+ attributes to obtain clean data for visualization
-          using custom dashboards for each user type.
-        - Designed and developed the ETL pipeline to map data from complex datasets and multiple data sources using PostgreSQL and Django.
+        - Participated in full data engineering cycle, requirements gathering across cross-functional teams, initial data analysis, data modeling, unit and integration testing, deployment, monitoring, and maintenance of 
+        applications in Data Governance for a Fortune 100 Global banking firm.
+        - Designed, developed, and organized ETL pipelines to map data from large-scale data structures to generate insights and address business needs.
+        - Achieved a 90% enhancement in SQL query performance through optimization and created dashboards to help developers track their progress and prioritize tasks which increased the work efficiency by 40%.
+        - Developed Perl scripts to run and streamline data fetched by complex queries and created an interactive Power BI report to monitor the Sybase database hygiene activities and organize potential risks to handle.
+        - Transformed data into actionable insights with Tableau dashboards, directly contributing to a 20% increase in revenue through enhanced customer targeting and product offerings.
 
 design:
   columns: '2'
