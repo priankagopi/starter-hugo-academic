@@ -45,8 +45,9 @@ item:
     description: 'present'
     organization: Coursera
     organization_url: https://www.coursera.org/
-    title: Google Data Analytics Professional Certificate
+    title: 'Google Data Analytics Professional Certificate'
     url: 'https://www.coursera.org/professional-certificates/google-data-analytics)https://www.coursera.org/professional-certificates/google-data-analytics'
+
 design:
   columns: '2'
 ---
