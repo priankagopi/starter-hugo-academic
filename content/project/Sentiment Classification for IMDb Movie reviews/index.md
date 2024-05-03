@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sentiment Classification for IMDb Movie Reviews"
+title: "Sentiment Classification"
 summary: "Developing a model to classify IMDb movie reviews as positive or negative sentiments."
 authors: []
 tags: 
