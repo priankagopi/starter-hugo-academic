@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "uploads/Summarizer report"
+url_pdf: "uploads/Summarizer report.pdf"
 url_slides: ""
 url_video: ""
 
