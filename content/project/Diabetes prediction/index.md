@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "uploads/BRFSS Data Analysis - Early Diabetes Prediction.pdf"
 url_slides: ""
 url_video: ""
 
