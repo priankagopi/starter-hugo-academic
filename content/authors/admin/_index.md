@@ -6,7 +6,7 @@ title: Priyanka Gopi
 superuser: true
 
 # Role/position/tagline
-role: Graduate Research Assistant - Data Science Research Aide |  Computer Science
+role: Ex-Data Engineer at Capgemini | Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,13 +16,13 @@ organizations:
 # Short bio (displayed in the user profile at the end of posts)
 bio: My interests include Data Engineering and Data Science.
 
-# Interests to show in About widget
+# Interests to show in the About widget
 interests:
   - Software development
   - Data Engineering
   - Machine Learning
 
-# Education to show in About widget
+# Education to show in the About widget
 education:
   courses:
     - course: Master of Science in Computer Science
@@ -60,14 +60,14 @@ email: ''
 highlight_name: true
 ---
 
-I am Priyanka Gopi, a graduate student pursuing a Master's in Computer Science at the University of Central Florida (UCF).
+I am Priyanka Gopi, an M.S. in Computer Science graduate from the University of Central Florida (UCF).
 
-Equipped with skills and a strong understanding of Python, I am keenly interested in learning more about the fields of Data Engineering and Machine Learning. I’m creative, analytical, and strategic in my ways and thrive on adapting to and succeeding in problem-solving and complex, challenging environments. I also take pride in having the ability to look at the big picture while having an eye for attention to detail simultaneously.
+With a robust proficiency in Python, I'm deeply passionate about delving deeper into the realms of Data Science and Engineering. My approach is characterized by creativity, analytical acumen, and strategic thinking, enabling me to excel in navigating and resolving intricate challenges. I'm proud of my skill in seeing the big picture while also paying close attention to small details.
 
 Beyond the world of data, I'm also an avid artist, finding inspiration in blending creativity with analytics. I look forward to bringing this unique blend of skills to contribute to innovative projects and a community that values both artistry and data-driven insights.
 
-Words I live by: Keep Learning and Growing. Be Kind and Helpful. Always Create Value.
+Words I live by Keep Learning and Growing. Be Kind and Helpful. Always Create Value.
 
-Currently, I am open to exciting internship/full-time roles in Software Engineering/Data Engineering/Machine Learning and would love to hear more about it. If you're passionate about data and related areas, don't hesitate to connect. I'm always up for engaging conversations and the chance to learn from fellow enthusiasts.
+Currently, I am open to exciting internship/full-time roles in Software Engineering/Data Science and Engineering and would love to hear more about it. If you're passionate about data and related areas, don't hesitate to connect. I'm always up for engaging conversations and the chance to learn from fellow data enthusiasts.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/priyanka_gopi_resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume.
