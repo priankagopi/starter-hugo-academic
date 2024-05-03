@@ -5,7 +5,7 @@ title: "Survival Prediction for Heart Failure Con-dition"
 summary: "Evaluate and compare ML models for predicting survival analysis of heart-failure patients to determine prognosis and guide treatment decisions for such high-risk heart patients."
 authors: []
 tags: 
-  - machine Learning
+  - Machine Learning
 categories: []
 date: 2023-04-01T04:09:50-07:00
 
