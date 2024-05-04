@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: Follow
+ - name:
    url: "https://github.com/priankagopi/Machine-Learning/tree/main/Survival%20Prediction%20of%20Heart-failure%20patients"
    icon_pack: fab
    icon: github
