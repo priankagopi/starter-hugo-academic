@@ -10,7 +10,7 @@ categories: []
 date: 2023-04-01T04:09:50-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Character-Level%20Language%20Modeling%20with%20LSTM"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,11 +22,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Follow
+   URL: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Character-Level%20Language%20Modeling%20with%20LSTM"
+   icon_pack: fab
+   icon: githu
 
 url_code: ""
 url_pdf: "uploads/Report_Critical_Temperature_prediction.pdf"
