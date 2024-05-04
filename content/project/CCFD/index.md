@@ -10,7 +10,7 @@ categories: []
 date: 2022-11-06T04:10:15-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/priankagopi/Machine-Learning/tree/main/Credit%20Card%20Fraud%20Detection"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,11 +22,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: 
+   url: "https://github.com/priankagopi/Machine-Learning/tree/main/Credit%20Card%20Fraud%20Detection"
+   icon_pack: fab
+   icon: github
 
 url_code: ""
 url_pdf: "uploads/Credit Card Fraud Detection.pdf"
