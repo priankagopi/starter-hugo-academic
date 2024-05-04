@@ -22,7 +22,7 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- links:
+links:
  - name: Follow
    url: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Character-Level%20Language%20Modeling%20with%20LSTM"
    icon_pack: fab
