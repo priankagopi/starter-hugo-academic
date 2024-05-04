@@ -6,7 +6,7 @@ title: Priyanka Gopi
 superuser: true
 
 # Role/position/tagline
-role: Ex-Data Engineer at Capgemini | Computer Science
+role: ex-Data Engineer @ Capgemini | Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
