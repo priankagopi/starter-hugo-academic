@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: Follow
+ - name:
    url: "https://github.com/priankagopi/Machine-Learning/tree/main/Maize%20Flowering%20Time%20Estimation%3A%20Regression%20Analysis"
    icon_pack: fab
    icon: twitter
