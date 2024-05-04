@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Research Assistant - Data Science Research Aide
+  - title: Graduate Research Assistant (Data Science)
     company: UCF - Physics Education Research (PER)
     company_url: 'https://sciences.ucf.edu/physics/research/research-areas/physics-education-research/'
     company_logo: ''
@@ -31,12 +31,12 @@ experience:
     date_end: '2024-05-02'
     description: |2-
         - Analyzing Student's demographic data from Physics Online Learning Modules (OLM) as part of the National Science Foundation (NSF).  
-        - Exploring the relation between learning behavior and learning outcome, motivation, course completion, and other student characteristics through advanced R analytics and visualization techniques. 
+        - Exploring the relation between learning behavior and learning outcome, motivation, course completion, and other student characteristics through advanced R analytics and visualization techniques.
+ 
       
-
   - title: Data Engineering Intern
     company: Coding It Forward
-    company_url: 'https://www.charlottenc.gov/Home'
+    company_url: 'https://codingitforward.com/'
     company_logo: ''
     location: Charlotte, North Carolina
     date_start: '2023-06-11'
@@ -48,12 +48,13 @@ experience:
         - Reduced fetch and load time by 65% by successfully automating data pipelines on Apache Airflow.
         - Developed timelines for individual projects with an Agile framework to deliver work products in sprints and leveraged Jira to track and catalogue work and communicate progress to direct leadership.
        
+
   - title: Graduate Research Assistant
     company: UCF - School of Global Health Management and Informatics 
     company_url: 'https://ccie.ucf.edu/hmi/health-informatics/'
     company_logo: ''
     location: Orlando, Florida
-    date_start: '2023-08-01'
+    date_start: '2022-08-22'
     date_end: '2023-05-02'
     description: |2-
         - Leveraged statistical techniques to analyze healthcare CDC dataset, to increase predicting accuracy by 15% for patient diseases.
@@ -61,13 +62,13 @@ experience:
         - Optimize and fine-tune data models to enhance data retrieval and processing efficiency.
     
     
-  - title: Associate Data Engineer
+  - title: Senior Data Engineer
     company: Capgemini
     company_url: 'https://www.capgemini.com/in-en/'
     company_logo: ''
     location: Bangalore, India
-    date_start: '2020-04-01'
-    date_end: '2022-12-19'
+    date_start: '2019-12-19'
+    date_end: '2022-08-17'
     description: |2-
         - Participated in full data engineering cycle, requirements gathering across cross-functional teams, initial data analysis, data modeling, unit and integration testing, deployment, monitoring, and maintenance of 
         applications in Data Governance for a Fortune 100 Global banking firm.
