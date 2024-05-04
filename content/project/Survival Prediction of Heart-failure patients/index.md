@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Survival Prediction for Heart Failure Con-dition"
-summary: "Evaluate and compare ML models for predicting survival analysis of heart-failure patients to determine prognosis and guide treatment decisions for such high-risk heart patients."
+title: "Survival Prediction for Heart Failure Condition"
+summary: "Evaluate and compare ML models for predicting survival analysis of heart-failure patients."
 authors: []
 tags: 
   - Machine Learning
@@ -10,7 +10,7 @@ categories: []
 date: 2023-04-01T04:09:50-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/priankagopi/Machine-Learning/tree/main/Survival%20Prediction%20of%20Heart-failure%20patients"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,11 +22,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Follow
+   url: "https://github.com/priankagopi/Machine-Learning/tree/main/Survival%20Prediction%20of%20Heart-failure%20patients"
+   icon_pack: fab
+   icon: github
 
 url_code: ""
 url_pdf: "uploads/Biomed project.pdf"
