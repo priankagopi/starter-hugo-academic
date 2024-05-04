@@ -3,7 +3,7 @@
 
 # draft: true
 title: "Intrusion Detection System "
-summary: "To create an intrusion detection system (IDS) that is capable of efficiently detecting and reducing network security threats over the long run. In order to simulate a real-world scenario, this involves training and evaluating amongst datasets with greater variance (datasets from different timeline). "
+summary: "Development of an intrusion detection system (IDS) to efficiently detect and reduce network security threats over the long run."
 authors: []
 tags: 
   # - Machine Learning
