@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: Follow
+ - name:
    url: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Smart%20Summarizer"
    icon_pack: fab
    icon: github
