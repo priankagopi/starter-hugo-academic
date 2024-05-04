@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: Follow
+ - name:
    url: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Sentiment-Classification-using-IMDb-Movie-Reviews-Dataset"
    icon_pack: fab
    icon: github
