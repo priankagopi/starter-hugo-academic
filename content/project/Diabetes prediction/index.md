@@ -10,7 +10,7 @@ categories: []
 date: 2022-12-10T04:09:50-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/priankagopi/Machine-Learning/tree/main/BRFSS%20Data%20Analysis:%20Early%20Diabetes%20Prediction"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,11 +22,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Follow
+   url: "https://github.com/priankagopi/Machine-Learning/tree/main/BRFSS%20Data%20Analysis:%20Early%20Diabetes%20Prediction"
+   icon_pack: fab
+   icon: github
 
 url_code: ""
 url_pdf: "uploads/BRFSS Data Analysis - Early Diabetes Prediction.pdf"
