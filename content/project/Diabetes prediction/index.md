@@ -23,7 +23,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: Follow
+ - name:
    url: "https://github.com/priankagopi/Machine-Learning/tree/main/BRFSS%20Data%20Analysis:%20Early%20Diabetes%20Prediction"
    icon_pack: fab
    icon: github
