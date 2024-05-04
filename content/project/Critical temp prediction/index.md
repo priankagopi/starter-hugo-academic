@@ -26,7 +26,7 @@ links:
  - name:
    URL: "https://github.com/priankagopi/Natural-Language-Processing/tree/main/Character-Level%20Language%20Modeling%20with%20LSTM"
    icon_pack: fab
-   icon: githu
+   icon: github
 
 url_code: ""
 url_pdf: "uploads/Report_Critical_Temperature_prediction.pdf"
