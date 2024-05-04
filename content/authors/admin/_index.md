@@ -70,4 +70,4 @@ Words I live by: **Keep Learning and Growing. Be Kind and Helpful. Always Create
 
 Currently, I am open to exciting internship/full-time roles in Software Engineering and Data Science, and would love to hear more about it. If you're passionate about data or related areas, don't hesitate to connect. I'm always up for engaging conversations and the chance to learn from fellow data enthusiasts.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/priyanka_gopi_resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/priyanka_gopi_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
