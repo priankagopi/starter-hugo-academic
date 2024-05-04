@@ -66,8 +66,8 @@ With a robust proficiency in Python, I'm deeply passionate about delving deeper 
 
 Beyond the world of data, I'm also an avid artist, finding inspiration in blending creativity with analytics. I look forward to bringing this unique blend of skills to contribute to innovative projects and a community that values both artistry and data-driven insights.
 
-Words I live by Keep Learning and Growing. Be Kind and Helpful. Always Create Value.
+Words I live by: **Keep Learning and Growing. Be Kind and Helpful. Always Create Value.**
 
-Currently, I am open to exciting internship/full-time roles in Software Engineering/Data Science and Engineering and would love to hear more about it. If you're passionate about data and related areas, don't hesitate to connect. I'm always up for engaging conversations and the chance to learn from fellow data enthusiasts.
+Currently, I am open to exciting internship/full-time roles in Software Engineering and Data Science, and would love to hear more about it. If you're passionate about data or related areas, don't hesitate to connect. I'm always up for engaging conversations and the chance to learn from fellow data enthusiasts.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/priyanka_gopi_resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume.
