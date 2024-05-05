@@ -30,9 +30,9 @@ experience:
     date_start: '2023-08-22'
     date_end: '2024-05-02'
     description: |2-
-        - Analyzing Student's demographic data from Physics Online Learning Modules (OLM) as part of the National Science Foundation (NSF).  
-        - Exploring the relation between learning behavior and learning outcome, motivation, course completion, and other student characteristics through advanced R analytics and visualization techniques.
- 
+        - Investigated students' behavioral factors impacting exam performance with statistical tests and quantitative analysis.  
+        - Extracted and analyze data on over 600k student grades, executing 2M+ queries resulting in a more informed decision-making process for study material selection.
+    
       
   - title: Data Engineering Intern
     company: Coding It Forward
@@ -42,6 +42,7 @@ experience:
     date_start: '2023-06-11'
     date_end: '2023-08-18'
     description: |2-
+        - Leveraged agile methodologies to collaborate with Data Scientists at the City of Charlotte to implement robust data models and adopt best practices in test design, data validation, reporting, and analysis.
         - Collaborated with stakeholders and business analysts to gather requirements and understand the company's data needs.
         - Streamlined the data cleaning process for unstructured crime datasets by developing automated scripts, reducing manual effort by 50%. 
         - Planned and executed data-driven solutions by developing an automated data pipeline in Airflow and building scalable databases on Snowflake, resulting in a 40% increase in operational efficiency.
@@ -72,10 +73,13 @@ experience:
     description: |2-
         - Participated in full data engineering cycle, requirements gathering across cross-functional teams, initial data analysis, data modeling, unit and integration testing, deployment, monitoring, and maintenance of 
         applications in Data Governance for a Fortune 100 Global banking firm.
+        - Developed a data framework utilizing SQL stored procedures, seamlessly orchestrating, and managing Data Pipelines in Autosys, resulting in a remarkable 60% reduction in manual workload.
         - Designed, developed, and organized ETL pipelines to map data from large-scale data structures to generate insights and address business needs.
         - Achieved a 90% enhancement in SQL query performance through optimization and created dashboards to help developers track their progress and prioritize tasks, increasing work efficiency by 40%.
         - Developed Perl scripts to run and streamline data fetched by complex queries and created an interactive Power BI report to monitor the Sybase database hygiene activities and organize potential risks to handle.
+        - Built test plans to streamline complex data queries, monitor database hygiene, and manage risk in QA and production environments.
         - Transformed data into actionable insights with Tableau dashboards, directly contributing to a 20% increase in revenue through enhanced customer targeting and product offerings.
+        - Received a Rising Star Award in recognition of outstanding performance and lasting contribution.
 
 design:
   columns: '2'
