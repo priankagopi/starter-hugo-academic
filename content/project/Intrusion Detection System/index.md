@@ -31,7 +31,7 @@ links:
   icon: github
 
 url_code: ""
-url_pdf: "uploads/ML_IDS.pdf"
+url_pdf: "uploads/Machine Learning Based Intrusion Detection System.pdf"
 url_slides: ""
 url_video: ""
 
