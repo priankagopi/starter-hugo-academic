@@ -6,8 +6,8 @@ title: "Intrusion Detection System "
 summary: "Development of an intrusion detection system (IDS) to efficiently detect and reduce network security threats over the long run."
 authors: []
 tags: 
-  # - Machine Learning
-  - Projects
+  - Machine Learning
+  #- Projects
 categories: []
 date: 
 
