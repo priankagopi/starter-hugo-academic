@@ -6,7 +6,7 @@ title: Priyanka Gopi
 superuser: true
 
 # Role/position/tagline
-role: ex-Data Engineer @ Capgemini | Computer Science Graduate
+role: Data Engineer @ Health First | Ex-Morgan Stanley | Computer Science Graduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
